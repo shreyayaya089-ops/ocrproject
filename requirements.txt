@@ -1,0 +1,10 @@
+flask
+opencv-python
+pytesseract
+pillow
+numpy
+matplotlib
+reportlab
+qrcode
+python-dotenv
+cryptographypip install -r requirements.txt
